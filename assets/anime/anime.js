@@ -11,7 +11,7 @@ window.ANIME_DATA = [
   {
     title: "Komi Can't Communicate",
     studio: "Anime/Manga",
-    image: "komi.jpg",
+    image: "komi2.jpg",
     link: null,
   },
   {
